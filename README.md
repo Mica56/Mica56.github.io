@@ -16,6 +16,8 @@ Features:
 ## Group projects I collaborated with:
 ### [PUP Organizations Search System](https://github.com/Mica56/OOP-Project-PUP-OrgSearch)
  A database system of organizations in PUP where you can search, register orgs, has newsfeed, stuff like that.
+ ![Img1](https://github.com/Mica56/Mica56.github.io/blob/main/images/orgsearch1.png)
+ ![Img2](https://github.com/Mica56/Mica56.github.io/blob/main/images/orgsearch2.png)
 ```
 Features:
 - Has UI
@@ -23,6 +25,8 @@ Features:
 ```
 ### [Contactless Contact tracing solution using QR-Code Technology](https://github.com/Mica56/CCTS)
  We made 2 apps for this: The Main system and the Scanner app.
+ ![Img3](https://github.com/Mica56/Mica56.github.io/blob/main/images/240742352_363574398594415_1557189136392541776_n.jpg)
+ ![Img4](https://github.com/Mica56/Mica56.github.io/blob/main/images/240738925_763746577714721_4837905605516149621_n.jpg)
  ```
 Features:
 - Has UI
