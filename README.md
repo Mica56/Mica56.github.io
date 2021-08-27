@@ -41,4 +41,4 @@ Features:
 - Scanner App: Intended to be used by establishments. Use to scan people's QR code and send the data of their entrance and exit to the database via internet.
 ```
 <br/>
-Contact Me thru [LinkedIn](https://www.linkedin.com/in/micaela-cerilla-ba4189186/)
+Contact Me: [linkedin.com/in/micaela-cerilla-ba4189186](https://www.linkedin.com/in/micaela-cerilla-ba4189186/)
