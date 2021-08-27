@@ -6,7 +6,7 @@ I'm Micaela Cerilla you can call me Micay, a computer science student currently 
 ### [Random Algorithms in C](https://github.com/Mica56/Random-Algorithms-in-C)
  A simple system that contains random algorithms (balloon and bubble sorting, rounding-off function, and a basketball scoring algorithm) implemented in C.
 
-### [Simple Database System using SQL](https://github.com/Mica56/Simple-DB-System)
+### [Simple Database System](https://github.com/Mica56/Simple-DB-System)
  A system I made based on a Bayad Center Transaction form. The system implements basic insertion and selection of data from the database.
 ```
 Features:
