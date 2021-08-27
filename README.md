@@ -40,3 +40,5 @@ Features:
 - Main System App: this is where you register data, monitoring and maintenance, and trace people. Intended to be use by the admin/the government
 - Scanner App: Intended to be used by establishments. Use to scan people's QR code and send the data of their entrance and exit to the database via internet.
 ```
+<br/>
+Contact Me: linkedin.com/in/micaela-cerilla-ba4189186
