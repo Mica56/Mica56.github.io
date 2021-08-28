@@ -23,7 +23,7 @@ Features:
 ```
 Features:
 - Has UI
-- Implemented using HTML, CSS, Java and SQL
+- Implemented using Java and SQL
 ```
 ### [Contactless Contact tracing solution using QR-Code Technology](https://github.com/Mica56/CCTS)
  We made 2 apps for this: The Main system and the Scanner app.<br/><br/>
