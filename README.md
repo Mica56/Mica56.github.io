@@ -17,9 +17,9 @@ Features:
 ### [PUP Organizations Search System](https://github.com/Mica56/OOP-Project-PUP-OrgSearch)
  A database system of organizations in PUP where you can search, register orgs, has newsfeed, stuff like that.<br/><br/>
  The Home Page:<br/>
- ![Img1](https://github.com/Mica56/Mica56.github.io/blob/main/images/orgsearch1.png)<br/><br/>
+ ![Img1](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/orgsearch1.png)<br/><br/>
  The Newsfeed Page:<br/>
- ![Img2](https://github.com/Mica56/Mica56.github.io/blob/main/images/orgsearch2.png)<br/><br/>
+ ![Img2](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/orgsearch2.png)<br/><br/>
 ```
 Features:
 - Has UI
@@ -28,9 +28,9 @@ Features:
 ### [Contactless Contact tracing solution using QR-Code Technology](https://github.com/Mica56/CCTS)
  We made 2 apps for this: The Main system and the Scanner app.<br/><br/>
  The Main System App:<br/>
- ![Img3](https://github.com/Mica56/Mica56.github.io/blob/main/images/240742352_363574398594415_1557189136392541776_n.jpg)<br/><br/>
+ ![Img3](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/240742352_363574398594415_1557189136392541776_n.jpg)<br/><br/>
  The Scanner App:<br/>
- ![Img4](https://github.com/Mica56/Mica56.github.io/blob/main/images/240738925_763746577714721_4837905605516149621_n.jpg)<br/><br/>
+ ![Img4](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/240738925_763746577714721_4837905605516149621_n.jpg)<br/><br/>
  ```
 Features:
 - Has UI
