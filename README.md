@@ -10,9 +10,9 @@ I'm Micaela Cerilla, an aspiring software developer.
 ### [Simple Database System](https://github.com/Mica56/Simple-DB-System)
  A system I made based on a Bayad Center Transaction form. The system implements basic insertion and selection of data from the database.<br/>
  <p float="left">
-  <img src="https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/sdbs1.png" width="100" />
-  <img src="https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/sdbs2.png" width="100" /> 
-  <img src="https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/sdbs.png" width="100" />
+  <img src="https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/sdbs1.png" width="500" />
+  <img src="https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/sdbs2.png" width="500" /> 
+  <img src="https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/sdbs.png" width="500" />
 </p>
 ```
 Features:
