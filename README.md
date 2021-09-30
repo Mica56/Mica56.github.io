@@ -1,5 +1,5 @@
 # Hallo, I'm Micay!
-I'm Micaela Cerilla you can call me Micay, a computer science student currently looking for opportunities to broaden my skills and start my programming career. 
+I'm Micaela Cerilla you can call me Micay, a computer science student. 
 
 *My repos:*
 ## Personal projects/programs:
