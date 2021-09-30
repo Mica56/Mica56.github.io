@@ -1,5 +1,5 @@
-# Hallo, I'm Micay!
-I'm Micaela Cerilla you can call me Micay, an aspiring software developer. 
+# Hallo!
+I'm Micaela Cerilla, an aspiring software developer. 
 
 *My repos:*
 ## Personal projects/programs:
