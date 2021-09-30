@@ -4,15 +4,15 @@ I'm Micaela Cerilla, an aspiring software developer.
 *My repos:*
 ## Personal projects/programs:
 ### [Random Algorithms in C](https://github.com/Mica56/Random-Algorithms-in-C)
- A simple system that contains random algorithms (balloon and bubble sorting, rounding-off function, and a basketball scoring algorithm) implemented in C.<br/>
+ A simple system that contains random algorithms (balloon and bubble sorting, rounding-off function, and a basketball scoring algorithm) implemented in C.<br/><br/>
  ![Img](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/algorithmsinc.png)
 
 ### [Simple Database System](https://github.com/Mica56/Simple-DB-System)
- A system I made based on a Bayad Center Transaction form. The system implements basic insertion and selection of data from the database.<br/>
+ A system I made based on a Bayad Center Transaction form. The system implements basic insertion and selection of data from the database.<br/><br/>
  <p float="left">
-  <img src="https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/sdbs1.png" width="500" />
-  <img src="https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/sdbs2.png" width="500" /> 
-  <img src="https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/sdbs.png" width="500" />
+  <img src="https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/sdbs1.png" width="300" />
+  <img src="https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/sdbs2.png" width="300" /> 
+  <img src="https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/sdbs.png" width="300" />
 </p>
 ```
 Features:
