@@ -41,4 +41,8 @@ Features:
 - Scanner App: Intended to be used by establishments. Use to scan people's QR code and send the data of their entrance and exit to the database via internet.
 ```
 <br/>
-Contact Me: [linkedin.com/in/micaela-cerilla-ba4189186](https://www.linkedin.com/in/micaela-cerilla-ba4189186/)
+## Work-related stuff I've done or participated with:
+### MVN Photostudio Events and Workshops SEO Campaign
+It was during my internship at the company, our department managed to raise the MVN Photostudio Events and Workshops Internship page's domain authority from 30+ to 60+ in a month! Yey! I did link building, SEO Analysis and learned various SEO techniques :D.<br/><br/>
+### Updated the STEMSEL Foundation Philippines' website
+Visit my website: [micayc.netlify.app](https://micayc.netlify.app/)
