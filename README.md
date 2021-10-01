@@ -48,7 +48,8 @@ Features:
 It was during my internship at the company, our department managed to raise the MVN Photostudio Events and Workshops Internship page's domain authority from 30+ to 60+ in a month! Yey! I did link building, SEO Analysis and learned various SEO techniques :D.<br/><br/>
                           Before                               |                             After
 :-------------------------------------------------------------:|:---------------------------------------------------------------:
-![Sadly, the before screenshot was accidentally deleted :(]()  |  ![Img2](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/242272135_208463764604609_9001079022268625827_n.png)
+     Sadly, the before screenshot was accidentally deleted :(  |  ![Img2](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/242272135_208463764604609_9001079022268625827_n.png)
 ### Updated the STEMSEL Foundation Philippines' website
 As per requested, I added a blog page, put the article that the CSR department made, and changes some UI stuff.<br/><br/>
+![Img1](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/stemsel.png) ![Img2](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/stemsel1.png)<br/><br/>
 Visit my website: [micayc.netlify.app](https://micayc.netlify.app/)
