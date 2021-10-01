@@ -46,7 +46,7 @@ Features:
 ```
 ## Other things I've done:
 ### MVN Photostudio Events and Workshops SEO Campaign
-It was during my internship at the company, our department managed to raise the MVN Photostudio Events and Workshops Internship page's domain authority from 30+ to 60+ in a month! Yey! I did link building, SEO Analysis and learned various SEO techniques :D.<br/><br/>
+It was during my internship at the company, our department managed to raise the MVN Photostudio Events and Workshops Internship page's domain authority from 30+ to 60+ in a month! Yey! I did link building, SEO Analysis and learned various SEO techniques :D.
                           Before                               |                             After
 :-------------------------------------------------------------:|:---------------------------------------------------------------:
      ![Sadly, the before screenshot was accidentally deleted :(]()  |  ![Img2](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/242272135_208463764604609_9001079022268625827_n.png)
