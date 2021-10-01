@@ -19,6 +19,7 @@ Features:
 ## Group projects I collaborated with:
 ### [PUP Organizations Search System](https://github.com/Mica56/OOP-Project-PUP-OrgSearch)
  A database system of organizations in PUP where you can search, register orgs, has newsfeed, stuff like that.<br/><br/>
+ (These are just the samples, it has other pages than these)<br/>
  The Home Page:<br/>
  ![Img1](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/orgsearch1.png)<br/><br/>
  The Newsfeed Page:<br/>
