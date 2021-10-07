@@ -45,7 +45,7 @@ Features:
 - Scanner App: Intended to be used by establishments. Use to scan people's QR code and send the data of their entrance and exit to the database via internet.
 ```
 ## Other things I've done:
-### Updated the STEMSEL Foundation Philippines' website
+### Updated the STEMSEL Foundation Philippines' Optinmize website
 As per requested, I added a blog page, put the article that the CSR department made, and changes some UI stuff.<br/><br/>
 ![Img1](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/stemsel.png) ![Img2](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/stemsel1.png)<br/><br/>
 Visit my website: [micayc.netlify.app](https://micayc.netlify.app/)
