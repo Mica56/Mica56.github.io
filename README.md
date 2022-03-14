@@ -53,7 +53,7 @@ A prototype ticketing system intended to resolve student concerns.<br/><br/>
 Features:
 - Has UI
 - Implemented using C#
-- Uses dotnet framework and AvaloniaUI, a .NET C# multiplatform package
+- Uses .NET framework and AvaloniaUI, a .NET C# multiplatform package
 ```
 ## Other things I've done:
 ### Updated the STEMSEL Foundation Philippines' Optinmize website
