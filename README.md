@@ -45,12 +45,15 @@ Features:
 - Scanner App: Intended to be used by establishments. Use to scan people's QR code and send the data of their entrance and exit to the database via internet.
 ```
 ### [Student Concern Ticketing System](https://github.com/MostDeadDeveloper/student-concern-ticketing-system)
-A ticketing system intended to resolve student concerns
+A prototype ticketing system intended to resolve student concerns.<br/><br/>
+ (These are just the samples, it has other pages than these)<br/>
+ ![Img1](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/startview.png)<br/><br/>
+ ![Img2](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/homeview.png)<br/><br/>
 ```
 Features:
 - Has UI
 - Implemented using C#
-- Uses dotnet framework and AvaloniaUI .NET C# multiplatform package
+- Uses dotnet framework and AvaloniaUI, a .NET C# multiplatform package
 ```
 ## Other things I've done:
 ### Updated the STEMSEL Foundation Philippines' Optinmize website
