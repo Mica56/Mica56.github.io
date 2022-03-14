@@ -44,6 +44,14 @@ Features:
 - Main System App: this is where you register data, monitoring and maintenance, and trace people. Intended to be use by the admin/the government
 - Scanner App: Intended to be used by establishments. Use to scan people's QR code and send the data of their entrance and exit to the database via internet.
 ```
+### [Student Concern Ticketing System](https://github.com/MostDeadDeveloper/student-concern-ticketing-system)
+A ticketing system intended to resolve student concerns
+```
+Features:
+- Has UI
+- Implemented using C#
+- Uses dotnet framework and AvaloniaUI .NET C# multiplatform package
+```
 ## Other things I've done:
 ### Updated the STEMSEL Foundation Philippines' Optinmize website
 As per requested, I added a blog page, put the article that the CSR department made, and changes some UI stuff.<br/><br/>
