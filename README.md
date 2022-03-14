@@ -46,7 +46,7 @@ Features:
 ```
 ### [Student Concern Ticketing System](https://github.com/MostDeadDeveloper/student-concern-ticketing-system)
 A prototype ticketing system intended to resolve student concerns.<br/><br/>
- (These are just the samples, it has other pages than these)<br/>
+ These are just the samples, it has other pages than these:<br/><br/>
  ![Img1](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/startview.png)<br/><br/>
  ![Img2](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/homeview.png)<br/><br/>
 ```
