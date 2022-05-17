@@ -58,7 +58,7 @@ Features:
 ### [Medzip](https://github.com/Mica56/Medzip)
 I was asked to be their lead developer and IT consultant in developing their web application called 'Medzip'. Medzip is intended to serve as a telecommunications application for healthcare providers and patients.<br/><br/>
 As the lead developer, I overseer and participated in the whole development process as a full-stack developer, and maintain and monitor both frontend and backend applications.<br/><br/>
-The web app: [medzip.netlify.app](https://medzip.netlify.app)<br/><br/>
+The web app (prototype): [medzip.netlify.app](https://medzip.netlify.app)<br/><br/>
 ![Img1](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/medzip_home.png)<br/><br/>
 ```
 Features:
