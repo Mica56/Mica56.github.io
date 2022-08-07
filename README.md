@@ -1,5 +1,5 @@
 # Hallo!
-I'm Micaela Cerilla, an aspiring software developer. 
+I'm Micaela Cerilla, an aspiring software engineer. 
 
 *My repos:*
 ## Personal projects/programs:
