@@ -68,7 +68,8 @@ Features:
 - backend and frontend is deployed as separate apps and is utilizing api for connection
 ```
 ## Thesis
-### [User-Centric Career Path Recommendations](https://mostdeaddeveloper-user-centric-career-p-srcweb-interface-x6nssx.streamlit.app/)
+### [User-Centric Career Path Recommendations]()
+System Simulation: [streamlit app](https://mostdeaddeveloper-user-centric-career-p-srcweb-interface-x6nssx.streamlit.app/)
  ![Img1](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/selection_pane.png)<br/><br/>
  ![Img2](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/model_settings.png)<br/><br/>
  ![Img3](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/dataset_showcase.png)<br/><br/>
