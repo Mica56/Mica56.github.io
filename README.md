@@ -67,7 +67,7 @@ Features:
 - Uses Vuejs and Django framework
 - backend and frontend is deployed as separate apps and is utilizing api for connection
 ```
-## Thesis
+## Bachelor's Thesis
 ### [User-Centric Career Path Recommendations]()
 System Simulation: [streamlit app](https://mostdeaddeveloper-user-centric-career-p-srcweb-interface-x6nssx.streamlit.app/)<br/><br/>
  ![Img1](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/selection_pane.png)<br/><br/>
