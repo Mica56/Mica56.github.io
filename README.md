@@ -69,10 +69,13 @@ Features:
 ```
 ## Bachelor's Thesis
 ### [User-Centric Career Path Recommendations]()
+Thesis Topic: “User-Centric Career Path Modeling and Recommendations”<br/><br/>
+This paper proposes an RNN-based, career path recommendation model called Long-Short Term Memory Network with Self Attention Layers (LSTM-ATT) that predicts a person’s possible career path (that includes their possible job titles, companies, and set of skills) taking into account their career history as well as new variables, such as salary estimations, social networks involved, and career duration for each career transition.<br/><br/>
 System Simulation: [streamlit app](https://mostdeaddeveloper-user-centric-career-p-srcweb-interface-x6nssx.streamlit.app/)<br/><br/>
  ![Img1](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/selection_pane.png)<br/><br/>
  ![Img2](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/model_settings.png)<br/><br/>
  ![Img3](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/dataset_showcase.png)<br/><br/>
+ Update: We're still on the process of taking care of the paperworks required for our paper to be published, and waiting for the review results of our paper, whether we passed or not, from a conference that we applied our paper for.
 ## Other things I've done:
 ### Updated the STEMSEL Foundation Philippines' Optinmize website
 As per requested, I added a blog page, put the article that the CSR department made, and changes some UI stuff.<br/><br/>
