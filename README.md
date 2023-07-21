@@ -56,7 +56,7 @@ Features:
 - Uses .NET framework and AvaloniaUI, a .NET C# multiplatform package
 ```
 ### [ExpenseTrack](https://github.com/Mica56/xpense-tracker)
-ExpenseTrack is a mobile application for managing overall expenses for all users. It allows inputting and viewing of expenses. For the admin functionalities, we have a separate web application for that.<br/><br/>
+ExpenseTrack is a mobile application for managing overall expenses for all users. It allows inputting and viewing of expenses. For the admin functionalities, we made a separate web application for that.<br/><br/>
 Mobile app sample pics:<br/><br/>
 ![Img1](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/xptrack_onboard.jpg)<br/><br/>
 ![Img2](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/xptrack_home.jpg)<br/><br/>
