@@ -58,8 +58,8 @@ Features:
 ### [ExpenseTrack](https://github.com/Mica56/xpense-tracker)
 ExpenseTrack is a mobile application for managing overall expenses for all users. It allows inputting and viewing of expenses. For the admin functionalities, we have a separate web application for that.<br/><br/>
 Mobile app sample pics:<br/><br/>
-![Img1](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/Screenshot_20230721-191130_Xpense Tracker.jpg)<br/><br/>
-![Img2](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/Screenshot_20230721-191227_Xpense Tracker.jpg)<br/><br/>
+![Img1](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/xptrack_onboard.jpg)<br/><br/>
+![Img2](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/xptrack_home.jpg)<br/><br/>
 ```
 Frontend Side:
 - Vue 2
