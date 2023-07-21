@@ -55,6 +55,22 @@ Features:
 - Implemented using C#
 - Uses .NET framework and AvaloniaUI, a .NET C# multiplatform package
 ```
+### [ExpenseTrack](https://github.com/Mica56/xpense-tracker)
+ExpenseTrack is a mobile application for managing overall expenses for all users. It allows inputting and viewing of expenses. For the admin functionalities, we have a separate web application for that.<br/><br/>
+Mobile app sample pics:<br/><br/>
+![Img1](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/Screenshot_20230721-191130_Xpense Tracker.jpg)<br/><br/>
+![Img2](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/Screenshot_20230721-191227_Xpense Tracker.jpg)<br/><br/>
+```
+Frontend Side:
+- Vue 2
+- Apache Cordova
+- Vue Router
+
+Backend Side:
+- Google Sheets/Firebase (Database)
+- Google App Script
+- All done Through REST APIs
+```
 ### [Medzip](https://github.com/Mica56/Medzip)
 I was asked to be their lead developer and IT consultant in developing their web application called 'Medzip'. Medzip is intended to serve as a telecommunications application for healthcare providers and patients.<br/><br/>
 As the lead developer, I overseer and participated in the whole development process as a full-stack developer, and maintain and monitor both frontend and backend applications.<br/><br/>
