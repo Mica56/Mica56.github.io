@@ -62,7 +62,7 @@ Mobile app sample pics:<br/><br/>
 ![Img2](https://raw.githubusercontent.com/Mica56/Mica56.github.io/main/images/xptrack_home.jpg)<br/><br/>
 ```
 Frontend Side:
-- Vue 2
+- Vuejs
 - Apache Cordova
 - Vue Router
 
