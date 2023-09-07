@@ -14,7 +14,7 @@ I'm Micaela Cerilla, an aspiring software engineer.
 ```
 Features:
 - Has UI
-- Implemented using Java and SQL
+- Implemented using Java and MySQL
 ```
 ## Team projects I collaborated with:
 ### [PUP Organizations Search System](https://github.com/Mica56/OOP-Project-PUP-OrgSearch)
@@ -27,7 +27,7 @@ Features:
 ```
 Features:
 - Has UI
-- Implemented using Java and SQL
+- Implemented using Java and SQL(MariaDB)
 ```
 ### [Contactless Contact tracing solution using QR-Code Technology](https://github.com/Mica56/CCTS)
  We made 2 apps for this: The Main system and the Scanner app.<br/><br/>
